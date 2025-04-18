@@ -1,0 +1,38 @@
+[
+  {
+    "titre": "Mort : retardé",
+    "description": "Hélène n'aurait pas pu imaginer que prendre l'avion lui sauverait la vie.",
+    "solution": "Quelques jours auparavant, Hélène avait été opérée. Avant d'embarquer dans l'avion, elle devait passer par le détecteur de métaux qui n'arrêtait pas de sonner, malgré le fait qu'elle avait enlevé tous les objets métalliques qu'elle portait. Après un examen aux rayons X, on découvrit que les médecins avaient laissé un scalpel à l'intérieur de son corps. Si Hélène ne l'avait pas découvert à temps, elle en serait certainement morte.",
+    "image": "images/retard-avion.jpg"
+  },
+  {
+    "titre": "2 hommes morts",
+    "description": "Dans une petite salle remplie d’eau, flottent deux hommes morts, un échiquier et un révolver.",
+    "solution": "Un sous-matin est immobilisé au fond de l’océan. La coque du sous-marin est percée et l’eau pénètre les salles, menaçant de noyer les deux occupants. Les hommes, ayant un révolver avec une seule balle ainsi qu’un jeu d’échecs décident de jouer leur suicide dans une partie d’échecs. Le vainqueur se tire une balle, le perdant se noie.",
+    "image": "images/plongeurs.jpg"
+  },
+  {
+    "titre": "Enthousiasme mortel",
+    "description": "Une éditrice lit avec enthousiasme un nouveau manuscrit d'un auteur. Quelques jours plus tard, deux personnes meurent.",
+    "solution": "Le roman racontait l'histoire du meurtre parfait et l'éditrice a décidé de suivre l'intrigue pour tuer son patron. Par la suite, elle a dû tuer l'auteur et détruire le manuscrit.",
+    "image": "images/manuscrit.jpg"
+  },
+  {
+    "titre": "Étrange accoutrement",
+    "description": "Un cadavre habillé étrangement est retrouvé au milieu d’une forêt.",
+    "solution": "Lors d’une lutte incendiaire, un plongeur se fait aspirer par un avion bombardier d’eau (utilisé pour la lutte contre les feux de forêt). En effet, l’hydravion rasait le plan d’eau d’un lac pour remplir sa soute d’eau. L’avion a ensuite largué son chargement d’eau, avec le plongeur, sur le feu de forêt. Le plongeur n’a pas fait long feu!",
+    "image": "images/foret.jpg"
+  },
+  {
+    "titre": "",
+    "description": "",
+    "solution": "",
+    "image": "images/.jpg"
+  },
+  {
+    "titre": "",
+    "description": "",
+    "solution": "",
+    "image": "images/.jpg"
+  }
+]
